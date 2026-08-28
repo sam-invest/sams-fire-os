@@ -1,11 +1,11 @@
-Sam's FIRE OS Web v5.1 — Supabase Cloud Sync
+Sam's FIRE OS Web v5.2 — Supabase Cloud Sync
 
 배포: GitHub 저장소의 기존 v5.0 파일을 이 ZIP의 파일들로 교체한 뒤 Commit 합니다. GitHub Pages는 자동으로 다시 배포됩니다.
 
 로그인: Supabase Authentication > Users에서 만든 이메일/비밀번호 계정을 사용합니다. 기존 capion/182182 브라우저 로그인은 제거되었습니다.
 
 최초 동기화:
-1) 기존 v5.0 실제 자료가 들어 있는 PC 브라우저에서 먼저 v5.1 사이트를 엽니다.
+1) 기존 v5.0 실제 자료가 들어 있는 PC 브라우저에서 먼저 v5.2 사이트를 엽니다.
 2) Supabase 계정으로 로그인합니다.
 3) 클라우드에 자료가 아직 없으면 현재 PC의 로컬 FIRE OS 자료가 최초 업로드됩니다.
 4) 이후 휴대폰/다른 PC에서 같은 계정으로 로그인하면 클라우드 자료를 불러옵니다.
